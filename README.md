@@ -1,5 +1,4 @@
-### Hi there 👋
-<h3 align="center">Full Stack Web Developer</h3>
+
 
 <!--
 **Ritesh2602/Ritesh2602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
